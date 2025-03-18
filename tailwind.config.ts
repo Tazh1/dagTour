@@ -50,8 +50,8 @@ export default <Partial<Config>>{
       padding: {
         sm: "16px",
         md: "32px",
-        lg: "44px",
-        xl: "52px",
+        lg: "54px",
+        xl: "72px",
         '2xl': "50px",
       },
     }
