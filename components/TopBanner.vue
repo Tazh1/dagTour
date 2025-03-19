@@ -9,7 +9,7 @@
       Saudi Arabia is rich in heritage and history. The country is <br />
       home to hundreds of historically important sites.
     </div>
-    <div class="container flex  justify-between mt-auto mb-[156px]">
+    <div class="container flex justify-between mt-auto mb-[156px]">
       <div>
         <h2 class="text-[32px]">History and Heritage</h2>
         <div class="text-[16px]">
@@ -31,4 +31,3 @@
     </div>
   </div>
 </template>
-<!-- flex gap-[71px] -->

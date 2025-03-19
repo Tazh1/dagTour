@@ -1,5 +1,7 @@
 <template>
   <div class="">
-    <TopBanner />
+    <TopBanner/>
+    <BordPartners/>
+    <UsDestinations/>
   </div>
 </template>
