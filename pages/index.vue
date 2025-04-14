@@ -1,7 +1,8 @@
 <template>
   <div class="">
-    <TopBanner/>
-    <BordPartners/>
-    <UsDestinations/>
+    <TopBanner />
+    <BordPartners />
+    <UsDestinations />
+    <Carousel />
   </div>
 </template>

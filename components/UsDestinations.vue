@@ -60,7 +60,11 @@ const cards = [
   </div>
 
   <div class="bg-black text-white px-[54px] grid-rows-2 grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-    <div v-for="item in cards" class="bg-no-repeat bg-cover aspect-[45/64] rounded-[16px] p-12" :class="[item.bg]">
+    <div
+      v-for="item in cards"
+      class="bg-no-repeat bg-cover aspect-[15/14] pointer-events-none rounded-[16px] p-12"
+      :class="[item.bg]"
+    >
       <div class="flex flex-col h-full">
         <div>
           <h2 class="text-[32px]">{{ item.title }}</h2>
